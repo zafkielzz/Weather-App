@@ -1,6 +1,6 @@
 # 🌤️ Weather App 
 
-A simple and responsive weather application built with **HTML**, **CSS**, and **JavaScript** .  
+A simple and responsive weather application built with **HTML**, **CSS**, **JavaScript** by **React** library .  
 It uses the **OpenWeatherMap API** to fetch current weather data for a given city.
 
 ---
